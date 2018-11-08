@@ -1,0 +1,78 @@
+x{
+	margin:0;
+	padding: 0;
+}
+header{
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 200vh;
+}
+
+.iro{
+	text-align: center; 
+	
+	color: #ffffff;
+	background-color: yellow;
+
+
+}
+
+.iro li{
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	color: #;
+    width: 100px;
+}
+
+.one{
+	
+	width: 200px;
+	height: 200px;
+	color: white;
+	margin-left: 300px;
+}
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: white;
+}
+
+.cont2{
+	color: rgb();
+	
+	margin-top: -216px;
+	width: 300px;
+	background-color: red;
+	height: 536px;
+
+	
+  
+}
+
+.class1{
+	width: 500px;
+	color: white;
+	text-align: right;
+	margin-left: 100px;
+}
+.containerbig{
+	width: 1000px;
+	background-color:black;
+	height: 4000px;
+	
+}
+
+.containerbig2{
+	background-color: grey;
+	width: 800px;
+	height: 800px;
+	text-align: center;
+	margin-left: 
+}
+.flyer{
+	float: right;
+}
